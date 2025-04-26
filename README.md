@@ -1,38 +1,48 @@
 # Token-Tool
 
-# 🔥 Token Tool - by Ryuk.lyy
+# 🚀 Token Tool - by Ryuk.lyy
 
-![banner](https://via.placeholder.com/1200x400?text=Token+Tool+by+Ryuk.lyy)
+![TokenTool Banner](https://via.placeholder.com/1200x400?text=Token+Tool+by+Ryuk.lyy)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/github/stars/yourusername/yourrepo?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/yourusername/yourrepo?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/yourusername/yourrepo?style=for-the-badge">
+</p>
 
 ---
 
-## 🛠 About
+## ✨ About
 
-**Token Tool** is a powerful and stylish tool built for **generating fake Discord tokens** and **checking real Discord tokens** easily from your command line.
+**Token Tool** is a powerful and stylish tool for generating **fake Discord tokens** and checking **real Discord tokens** — all inside your command line.
 
-✨ Built with clean UI, emojis, sound effects, loading animations, and an awesome ASCII header.
+🖼️ With **ASCII art banners**,  
+🎨 Colorful **emojis and animations**,  
+🔊 **Sound effects**,  
+🛠️ And **auto-saving** of your results neatly.
 
 ---
 
 ## 📦 Features
 
-- 🎯 **Token Generator** — Creates random Discord-like tokens (fake).
-- 🔍 **Token Checker** — Checks real tokens and separates:
-  - ✅ Valid tokens → `results/valid.txt`
-  - ❌ Invalid tokens → `results/invalid.txt`
-- 📂 **Saves all tokens** neatly inside `results/` folder.
-- 🎨 **Modern interface** with emojis and progress animations.
-- 🔊 **Sound effects** after each check.
-- 🖼️ **ASCII Art** startup banner.
+- 🎯 **Token Generator** — Generate random fake Discord tokens.
+- 🔍 **Token Checker** — Validate real Discord tokens.
+- ✅ Save valid tokens → `results/valid.txt`
+- ❌ Save invalid tokens → `results/invalid.txt`
+- 📂 Saves generated tokens → `results/tokens.txt`
+- 🎨 Beautiful terminal UI with emojis + loading animations.
+- 🛠️ Clean folder structure and automatic file handling.
 
 ---
 
-## 🚀 How to Run
+## 🚀 Installation
 
-1. **Clone the repository:**
+1. **Clone this repo:**
    ```bash
    git clone https://github.com/yourusername/yourrepo.git
    cd yourrepo
+
 
 Install required Python modules:
 
