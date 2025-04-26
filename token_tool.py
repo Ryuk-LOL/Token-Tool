@@ -39,7 +39,7 @@ def generate_fake_token():
 # Token Generator
 def token_generator():
     try:
-        amount = int(input("\n🛠️  How many fake tokens to generate? "))
+        amount = int(input("\n🛠️  How many tokens to generate? "))
     except ValueError:
         print("\n❌ Invalid number. Please enter digits.")
         return
@@ -51,7 +51,7 @@ def token_generator():
             token = generate_fake_token()
             f.write(token + "\n")
     
-    print(f"\n✅ {amount} fake tokens generated and saved to results/tokens.txt!\n")
+    print(f"\n✅ {amount} tokens generated and saved to results/tokens.txt!\n")
 
 # Token Checker
 def real_token_checker():
