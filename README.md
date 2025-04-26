@@ -78,11 +78,3 @@ ASCII Art + UI + Effects handcrafted 🎨
  
 ---
 
-# ⚡ Extra Tip:
-- If you want, you can **add a real banner image** by replacing the fake URL in `![banner](...)`.
-- If you give me a real image, I can even **design a cool banner** for you 👑.
-
----
-
-Would you like me to also make a **fancy GitHub badge** version? (Like: Python | Stars | Forks | License badges at the top) 🚀✨  
-Just say "**make it cooler**" and I'll do it! 😈
