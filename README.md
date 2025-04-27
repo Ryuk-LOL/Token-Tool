@@ -6,9 +6,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/github/stars/yourusername/yourrepo?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/yourusername/yourrepo?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/yourusername/yourrepo?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/Ryuk-LOL/Token-Tool?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/Ryuk-LOL/Token-Tool?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/Ryuk-LOL/Token-Tool?style=for-the-badge">
 </p>
 
 ---
